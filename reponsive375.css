@@ -1,0 +1,347 @@
+@media (max-width:375px){
+    body{
+        max-width: 375px;
+    }
+    
+    .slider {
+        width: 401%;
+        margin-right: 59px;
+        height: 50%;
+        padding-left: 86px;
+    }
+    .explore {
+        width: 355%;
+    }
+    .explore h1 {
+        font-size: 70px;
+    width: 100%;
+    margin-left: 88px;
+    }
+    .explore p{
+        margin-left: 88px;
+        font-size: 59px;
+        line-height: 1;
+    }
+    .test {
+        width: 290%;
+        padding: 22px 30px;
+        font-size: 56px;
+        margin-left: 219px;
+    }
+  .test .active{
+      width: 120%;
+  } 
+  .test .active {
+    height: 209px;
+    font-size: 57px;
+    margin-left: -30px;
+    padding: 34px;
+}
+.doc {
+    margin-left: 249px;
+    width: 255%;
+    margin-top: 71px;
+}
+.doc img {
+    height: 31pc;
+}
+.doc:hover .overlay {
+    bottom: -226px;
+    height: 230%;
+}
+.text {
+    font-size: 31px;
+    padding: 26px;
+}
+.doc h2 {
+    font-size: 58px;
+    padding: 15px;
+}
+.doc p {
+    font-size: 61px;
+    margin-left: 29px;
+}
+    .university {
+        width: 405%;
+    }
+    .university h1 {
+        margin-left: 47px;
+        font-size: 72px;
+        padding-top: 55px;
+    }
+    .university p {
+        margin-left: 44px;
+    line-height: 60px;
+    font-size: 61px;
+    margin-right: 1px;
+    text-align: -webkit-match-parent;
+    padding-bottom: 22px;
+    }
+    .the h3 {
+        margin-left: 73px;
+    font-size: 75px;
+    padding-top: 71px;
+    }
+    .the{
+        width: 264%;
+    }
+    .the p {
+        margin-left: 84px;
+    font-size: 62px;
+    padding-top: 6px;
+    width: 138%;
+    }
+    #slider {
+        width: 405%;
+    }
+    table {
+        margin-left: 32px;
+        margin-top: 49px;
+        width: 374%;
+    }
+    td {
+        font-size: 46px;
+        padding-left: 0px;
+    }
+    .tab {
+        margin-left: 13pc;
+        width: 227%;
+    }
+    .know h4 {
+        font-size: 62px;
+        padding: 37px;
+        padding-bottom: 19pc;
+        width: 389%;
+      }
+      .know p{
+        color: #4e4c4a;
+        font-size: 59px;
+        margin-top: -270px;
+        margin-left: 79px;
+        width: 323%;
+      }
+      
+      .video {
+        margin-top: 24pc;
+          margin-bottom: 27px;
+          margin-left: 5px;
+          padding: 6px 54px;
+      }
+      .video iframe {
+        width: 470%;
+        height: 895px;
+        margin-left: 73px;
+        margin-right: -10px;
+        padding-bottom: 20pc;
+        margin-top: -311px;
+    }
+    .pat img {
+        height: 34pc;
+    width: 398%;
+    margin-top: -253px;
+    margin-left: 9px;
+    }
+    .CHOOSE {
+        width: 402%;
+    }
+    .CHOOSE h1 {
+        margin-left: -10px;
+        font-size: 66px;
+        padding-top: 12px;
+}
+.know1 h5 {
+    background-color: #F3F3F3;
+    font-size: 58px;
+    padding: 63px;
+    padding-bottom: 164pc;
+    margin-top: 128px;
+    color: #008def;
+    font-weight: bold;
+    margin-left: 64px;
+    width: 372%;
+    margin-bottom: -268px;
+  }
+  .video2 {
+    margin-top: -140pc;
+    margin-bottom: 27px;
+    margin-left: 5px;
+    padding: 6px 54px;
+  }
+  .video2 iframe {
+    width: 457%;
+    height: 907px;
+    margin-left: 60px;
+    margin-right: -10px;
+    padding-bottom: 20pc;
+    margin-top: -311px;
+}
+.mat {
+    margin-left: 429px;
+    padding: 50px;
+    font-size: 39px;
+    width: 656px;
+}
+.icon {
+    padding: 20px;
+    font-size: 50px;
+    width: 90px;
+    margin-left: 970px;
+    margin-top: -146px;
+}
+.always h1 {
+    margin-left: 80px;
+    margin-top: 116px;
+    font-size: 45px;
+    width: 194%;
+}
+.academic h1 {
+    font-size: 25px;
+    margin-top: 93px;
+    margin-left: 80px;
+    font-size: 45px;
+    width: 194%;
+}
+.rest {
+    width: 1433px;
+    margin-left: 44px;
+    margin-right: -106px;
+}
+.rest img {
+    margin-top: 61px;
+    width: 78%;
+    margin-left: 132px;
+}
+.rest p{
+    font-size: 63px;
+}
+    .swiper {
+        width: 404%;
+        height: 17pc;
+    }
+    .swiper-slide img {
+        display: block;
+        width: 95%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .company h1{
+        width: 127%;
+    }
+    .company {
+    width: 149%;
+    padding-bottom: 21px;
+}
+    .company h1 {
+        margin-left: 71px;
+        font-size: 62px;
+        margin-top: 59px;
+    }
+    .company img {
+        width: 266%;
+    }
+    .best img {
+        width: 386%;
+    margin-left: 55px;
+    margin-top: 48px;
+    }
+    .vibe {
+        margin-top: 43px;
+        width: 270%;
+    }
+    .video2 {
+        margin-left: 2px;
+    margin-right: -16px;
+    }
+    .god {
+        width: 1522px;
+    }
+    .god h1 {
+        font-size: 72px;
+    }
+    .god p {
+        font-size: 55px;
+        text-align: justify;
+        padding-left: 56px;
+    }
+    .god img {
+        width: 31%;
+    padding-right: 57px;
+    }
+    .smile {
+        background-color: #042444;
+        height: 309pc;
+        width: 1546px;
+        padding-top: 74px;
+        margin-left: -24px;
+        line-height: 39px;
+        margin-top: -9px;
+        padding-bottom: 48%;
+    }
+    .iner {
+        line-height: 100px;
+    font-size: 65px;
+    font-weight: bold;
+    }
+    .row {
+        margin-right: 16px;
+        margin-left: -2pc;
+        padding-left: 100px;
+    }
+    .column {
+        float: left;
+        width: 52%;
+        color: #2EA3F2;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin-left: 5pc;
+    }
+    .column a {
+        color: grey;
+        font-size: 57px;
+        text-decoration: none;
+        line-height: 84px;
+    }
+    .fot {
+        margin-top: -551px;
+    margin-left: 103px;
+    margin-right: -35%;
+    }
+    .fot h1 {
+        margin-left: 34px;
+        font-size: 59px;
+    }
+    .email {
+        font-size: 41px;
+        padding: 28px 29px;
+        background-color: #07294b;
+        border: none;
+        width: 120%;
+        margin-left: 34px;
+    }
+    .subcribe {
+        background-color: #008def;
+    color: white;
+    margin-top: 95px;
+    padding: 32px 50px;
+    margin-left: 47px;
+    border: none;
+    border-radius: 5px;
+    font-size: 37px;
+    cursor: pointer;
+    font-weight: bold;
+    }
+    .contact {
+        margin-top: -540px;
+        margin-left: 54pc;
+        line-height: 56px;
+    }
+    .contact h1 {
+        color: white;
+        font-size: 55px;
+    }
+    .contact {
+        width: 144%;
+    }
+    .contact p {
+        font-size: 45px;
+    }
+}
